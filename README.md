@@ -4,7 +4,7 @@
   <img src="https://github.com/jorgevelezgarcia/jorgevelezgarcia/blob/main/banner.png" width="800"/>
 </div>
 
-<div id="header" align="center">
+<div align="center">
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-velez-garcia/)
 </div>
 
