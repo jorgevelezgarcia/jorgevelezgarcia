@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+https://github.com/jorgevelezgarcia/jorgevelezgarcia/
+<div id="header" align="center">
+  <img src="https://github.com/jorgevelezgarcia/jorgevelezgarcia/blob/main/banner.png" width="800"/>
+</div>
 <!--
 **jorgevelezgarcia/jorgevelezgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
